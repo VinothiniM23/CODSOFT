@@ -17,4 +17,10 @@ This repository contains a simple Java program developed using NetBeans IDE 20 f
 2. Open the project in NetBeans IDE 20.
 3. Build and run the project to execute the Student Grade Calculation program.
 4. Follow the on-screen instructions to input marks and view the results.
+# Contribution Guidelines
+Feel free to contribute to this project by suggesting improvements, fixing bugs, or adding new features. Follow the standard GitHub workflow by forking the repository, creating a branch for your changes, and submitting a pull request.
+
+# License
+This project is licensed under the MIT License.
+
  
