@@ -8,3 +8,7 @@ This repository contains a simple Java program developed using NetBeans IDE 20 f
   * **Average Percentage calculation**: Computes the average percentage by dividing the total marks by the total number of subjects.
   * **Grade Assignment**: Assigns letter grades based on the average percentage achieved.
   * **Result Display**: Shows the total marks, average percentage, and the corresponding letter grade to the user.
+# Technologies Used
+  * **Java**: The core programming language used for implementing the student grade calculation logic.
+  * **NetBeans IDE 20**: The integrated development environment used for Java application development.
+  * **GitHub**: The repository is hosted on GitHub, providing version control and collaboration features.
